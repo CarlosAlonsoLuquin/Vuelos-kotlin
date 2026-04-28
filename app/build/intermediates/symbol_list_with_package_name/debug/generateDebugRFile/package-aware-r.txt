@@ -1,0 +1,21 @@
+com.example.vueloskotlin
+drawable aterrisar
+drawable avion
+drawable bookings
+drawable buscarblanco
+drawable china
+drawable despegar
+drawable flecha_correcta
+drawable flechas
+drawable fondo_avion
+drawable home
+drawable inglaterra
+drawable japan
+drawable logo1
+drawable logo2
+drawable notification
+drawable profile
+drawable reserva
+drawable search_icon
+string app_name
+style Theme_VuelosKotlin

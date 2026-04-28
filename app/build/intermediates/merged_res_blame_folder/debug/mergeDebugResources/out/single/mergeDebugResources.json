@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable_profile.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable/profile.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable-nodpi_flecha_correcta.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable-nodpi/flecha_correcta.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable-nodpi_japan.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable-nodpi/japan.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable-nodpi_aterrisar.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable-nodpi/aterrisar.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable-nodpi_flechas.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable-nodpi/flechas.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable-nodpi_buscarblanco.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable-nodpi/buscarblanco.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable-nodpi_inglaterra.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable-nodpi/inglaterra.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable_logo2.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable/logo2.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable-nodpi_avion.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable-nodpi/avion.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable_bookings.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable/bookings.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable_fondo_avion.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable/fondo_avion.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable-nodpi_reserva.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable-nodpi/reserva.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable_search_icon.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable/search_icon.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable_logo1.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable/logo1.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable_home.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable-nodpi_despegar.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable-nodpi/despegar.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable_notification.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable/notification.png"
+    },
+    {
+        "merged": "com.example.vueloskotlin.app-debug-53:/drawable-nodpi_china.png.flat",
+        "source": "com.example.vueloskotlin.app-main-55:/drawable-nodpi/china.png"
+    }
+]
